@@ -1,1 +1,1 @@
-This app is powered by React and can detect faces on photos. Give it a try!
+This app is powered by React and can detect human faces on photos. Give it a try!
